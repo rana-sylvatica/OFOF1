@@ -50,7 +50,7 @@ The OF1 board and OFOF1 case work with any MX-style mechanical switch.  The OFOF
 
 To assemble, the switch is placed into the bottom half of the housing, and the top half is screwed into the bottom half through the hole in the top panel.  The keycap is then pressed onto the switch stem.  As with the standoffs, these can be printed at home or ordered from JLC.  Please note that if your top panel is less than 2.5mm thick, you will need an o-ring around the top housing, under the panel (see Hardware section).
 
-A panelized file is available that includes parts for 3 complete buttons (top half, bottom half, and keycap).  For a full set, 7 copies of the file need to be ordered.  The files of the individual parts are also available
+A panelized file is available that includes parts for 3 complete buttons (top half, bottom half, and keycap).  The LEDO6060 resin from JLC is the recommended material for these parts. For a full set, 7 copies of the file need to be ordered.  The files of the individual parts are also available
 ![image](https://user-images.githubusercontent.com/95242582/177424960-2e8d3128-e9a8-44c8-9dac-727e9f6e1b16.png)
 
 Note: these housings are compatible with official Frame1 keycaps or any circular keycap that is 20.64mm or less in diameter.
