@@ -44,4 +44,10 @@ Files for these are provided in STEP and STL format, both as individual parts fo
 
 ## Buttons
 
+The OF1 board and OFOF1 case work with any MX-style mechanical switch.  The OFOF1 uses the screw-together button housings shown below.  
+![image](https://user-images.githubusercontent.com/95242582/177423209-cf4472c3-63f1-41cc-b781-756241bba0d2.png)
+![image](https://user-images.githubusercontent.com/95242582/177423346-5b6b06be-8222-4141-91e2-8698a198bcd1.png)
+
+
+
 ## Hardware
