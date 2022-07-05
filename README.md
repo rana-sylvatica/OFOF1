@@ -65,5 +65,23 @@ Here's what is needed to assemble a full controller:
 
 ### OFOF1
 
+x9 16mm Flanged Button Head Screw
+https://www.mcmaster.com/90909A724/
+
+x9 Narrow Base Weld Nut
+https://www.mcmaster.com/90594A320/
+
+x20 O-ring
+https://www.mcmaster.com/9452K84/
 
 ### OFOF1-alt
+
+x9 10mm Flanged Button Head Screw
+https://www.mcmaster.com/90909A724/
+
+x9 Narrow Base Weld Nut
+https://www.mcmaster.com/90594A320/
+
+## Additional info
+
+If you wan to know more or discuss these designs, DM on discord at bjartskular1#6913 or join my server at https://discord.gg/9wBaMWgJkv
