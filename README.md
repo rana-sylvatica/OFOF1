@@ -38,9 +38,9 @@ The standoffs that hold the layers at the proper spacing are designed to be 3D p
 ![image](https://user-images.githubusercontent.com/95242582/177422742-10cc2180-853b-4335-b5df-835c6af1c75a.png)
 
 
-A complete build requires 4 corner standoffs, 5 bottom standoffs, and 5 top standoffs.  Note that there are different versions of the corner and top standoffs for the OFOF1_alt build configuration.
+A complete build requires 4 corner standoffs, 5 bottom standoffs, and 5 top standoffs.  Note that there are different versions of the corner and top standoffs for the OFOF1_alt build configuration (tall ones are for OFOF1, short ones are for OFOF1_alt).
 
-Files for these are provided in STEP and STL format, both as individual parts for at-home printing and panelized parts for ordering.  
+Files for these are provided in STL format, both as individual parts for at-home printing and panelized parts for ordering.  
 
 ## Buttons
 
