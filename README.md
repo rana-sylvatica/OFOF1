@@ -30,7 +30,7 @@ Important note: assuming you have long enough screws, the bottom panel can be as
 
 The files for the bottom panel, top panel, and alternate top panel are provided in DXF format (2D CAD), STEP format (3D CAD), and as Gerber PCB fabrication files.  
 
-Outer dimensions of the panels are 14"x7".
+Outer dimensions of the panels are 14.5"x7".
 
 
 ## Standoffs
@@ -79,7 +79,7 @@ https://www.mcmaster.com/9452K57/
 ### OFOF1-alt
 
 x9 10mm Flanged Button Head Screw
-https://www.mcmaster.com/90909A724/
+https://www.mcmaster.com/90909A722/
 
 x9 Narrow Base Weld Nut
 https://www.mcmaster.com/90594A320/
