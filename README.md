@@ -26,6 +26,8 @@ However, JLCPCB has a minimum order quantity of 5, so this is not the most econo
 
 Another good method would be to order the panels through a laser-cutting service like SendCutSend (for those in the USA/Canada).  3mm acrylic or 1.6mm aluminum would both be suitable materials, and wouldn't be very expensive to make.  The panels can also be cut by hand from MDF or plywood or whatever.  Just know that you may need longer screws if you use a material thicker than 3mm.
 
+Important note: assuming you have long enough screws, the bottom panel can be as thick as you'd like.  The top panel however should be 3mm or less in thickness to allow the screw-together button housings to fit properly.  For the OFOF1_alt, the top panel should be 1.5-1.6mm thick to allow the switches to clip into place.
+
 The files for the bottom panel, top panel, and alternate top panel are provided in DXF format (2D CAD), STEP format (3D CAD), and as Gerber PCB fabrication files.  
 
 Outer dimensions of the panels are 14"x7".
@@ -48,7 +50,7 @@ The OF1 board and OFOF1 case work with any MX-style mechanical switch.  The OFOF
 ![image](https://user-images.githubusercontent.com/95242582/177423209-cf4472c3-63f1-41cc-b781-756241bba0d2.png)
 ![image](https://user-images.githubusercontent.com/95242582/177423346-5b6b06be-8222-4141-91e2-8698a198bcd1.png)
 
-To assemble, the switch is placed into the bottom half of the housing, and the top half is screwed into the bottom half through the hole in the top panel.  The keycap is then pressed onto the switch stem.  As with the standoffs, these can be printed at home or ordered from JLC.  Please note that if your top panel is less than 2.5mm thick, you will need an o-ring around the top housing, under the panel (see Hardware section).
+To assemble, the switch is placed into the bottom half of the housing, and the top half is screwed into the bottom half through the hole in the top panel.  The keycap is then pressed onto the switch stem.  As with the standoffs, these can be printed at home or ordered from JLC.  Please note that you will need an o-ring around the top housing, under the panel (see Hardware section).
 
 A panelized file is available that includes parts for 3 complete buttons (top half, bottom half, and keycap).  The LEDO6060 resin from JLC is the recommended material for these parts. For a full set, 7 copies of the file need to be ordered.  The files of the individual parts are also available
 ![image](https://user-images.githubusercontent.com/95242582/177424960-2e8d3128-e9a8-44c8-9dac-727e9f6e1b16.png)
@@ -72,7 +74,7 @@ x9 Narrow Base Weld Nut
 https://www.mcmaster.com/90594A320/
 
 x20 O-ring
-https://www.mcmaster.com/9452K84/
+https://www.mcmaster.com/9452K57/
 
 ### OFOF1-alt
 
