@@ -74,7 +74,7 @@ x9 Narrow Base Weld Nut
 https://www.mcmaster.com/90594A320/
 
 x20 O-ring
-https://www.mcmaster.com/9452K57/
+https://www.mcmaster.com/9452K75/
 
 ### OFOF1-alt
 
