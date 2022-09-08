@@ -1,6 +1,7 @@
 # OFOF1
 Open-frame case design for the Open Frame1 board
 
+## NOTE: this project is currently under construction and the files do not all match the descriptions in the README.  This warning will be removed when I have all the correct files uploaded
 
 ## Overview
 
