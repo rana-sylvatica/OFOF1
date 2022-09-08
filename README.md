@@ -24,11 +24,13 @@ There are many ways to fabricate the top and bottom panels.  The method I am usi
 ![image](https://user-images.githubusercontent.com/95242582/177420697-fc26cb6a-f005-4b2a-90ea-1a2d32045680.png)
 However, JLCPCB has a minimum order quantity of 5, so this is not the most economical for a one-off build.
 
-Another good method would be to order the panels through a laser-cutting service like SendCutSend (for those in the USA/Canada).  3mm acrylic or 1.6mm aluminum would both be suitable materials, and wouldn't be very expensive to make.  The panels can also be cut by hand from MDF or plywood or whatever.  Just know that you may need longer screws if you use a material thicker than 3mm.
+Another good method would be to order the panels through a laser-cutting service like SendCutSend (for those in the USA/Canada).  3mm acrylic or MDF or 1.6mm aluminum would both be suitable materials, and wouldn't be very expensive to get manufactured.  The panels can also be cut by hand from MDF or plywood or whatever.  Just know that you may need longer screws if you use a material thicker than 3mm.
 
 Important note: assuming you have long enough screws, the bottom panel can be as thick as you'd like.  The top panel however should be 3mm or less in thickness to allow the screw-together button housings to fit properly.  For the OFOF1_alt, the top panel should be 1.5-1.6mm thick to allow the switches to clip into place.
 
 The files for the bottom panel, top panel, and alternate top panel are provided in DXF format (2D CAD), STEP format (3D CAD), and as Gerber PCB fabrication files.  
+
+Also included is a DXF file for a cover plate for the alt version.  This is optional but can be laser cut from clear acrylic to recess the switches somewhat and also allow for custom art, sandwiched between the top panel and cover plate.  If you go this route you will need longer screws than the ones listed below for the alt version
 
 Outer dimensions of the panels are 14.5"x7".
 
@@ -40,9 +42,16 @@ The standoffs that hold the layers at the proper spacing are designed to be 3D p
 ![image](https://user-images.githubusercontent.com/95242582/177422742-10cc2180-853b-4335-b5df-835c6af1c75a.png)
 
 
-A complete build requires 4 corner standoffs, 5 bottom standoffs, and 5 top standoffs.  Note that there are different versions of the corner and top standoffs for the OFOF1_alt build configuration (tall ones are for OFOF1, short ones are for OFOF1_alt).
+A complete build requires 4 corner standoffs, 5 bottom standoffs, and 5 top standoffs.  Note that there are three different versions of the corner and top standoffs:
+The ones labeled "reg" are for the regular OFOF1 build with an aluminum top panel.  The ones labeled "reg_acrylic" are for a regular OFOF1 build with a 3mm thick top panel (usually made of acrylic).  Finally, the ones labeled "alt" are for the OFOF1_alt build. 
 
 Files for these are provided in STL format, both as individual parts for at-home printing and panelized parts for ordering.  
+
+If you do not like the open-frame look of the controller, there are 3D printable files for all three configurations (reg, reg_acrylic, and alt) that provide solid sidewalls.  These replace the standoffs described above.  The STL files provided are arranged for an Ender3-sized build platform.  If you are trying to print them on a smaller printer than that, open up the file in your slicer program of choice and split to objects and rearrange as needed.
+
+![image](https://user-images.githubusercontent.com/95242582/189029996-b5907c07-617e-4658-ab5c-ccc28bf42d56.png)
+
+
 
 ## Buttons
 
@@ -50,7 +59,7 @@ The OF1 board and OFOF1 case work with any MX-style mechanical switch.  The OFOF
 ![image](https://user-images.githubusercontent.com/95242582/177423209-cf4472c3-63f1-41cc-b781-756241bba0d2.png)
 ![image](https://user-images.githubusercontent.com/95242582/177423346-5b6b06be-8222-4141-91e2-8698a198bcd1.png)
 
-To assemble, the switch is placed into the bottom half of the housing, and the top half is screwed into the bottom half through the hole in the top panel.  The keycap is then pressed onto the switch stem.  As with the standoffs, these can be printed at home or ordered from JLC.  Please note that you will need an o-ring around the top housing, under the panel (see Hardware section).
+To assemble, the switch is placed into the bottom half of the housing, and the top half is screwed into the bottom half through the hole in the top panel.  The keycap is then pressed onto the switch stem.  As with the standoffs, these can be printed at home or ordered from JLC.  Please note that if you use a top panel thinner than 3mm, you will need an o-ring around the top housing, under the panel (see Hardware section).
 
 A panelized file is available that includes parts for 3 complete buttons (top half, bottom half, and keycap).  The LEDO6060 resin from JLC is the recommended material for these parts. For a full set, 7 copies of the file need to be ordered.  The files of the individual parts are also available
 ![image](https://user-images.githubusercontent.com/95242582/177424960-2e8d3128-e9a8-44c8-9dac-727e9f6e1b16.png)
@@ -73,7 +82,7 @@ https://www.mcmaster.com/90909A724/
 x9 Narrow Base Weld Nut
 https://www.mcmaster.com/90594A320/
 
-x20 O-ring
+x20 O-ring (not needed if using a 3mm thick acrylic/MDF top panel)
 https://www.mcmaster.com/9452K75/
 
 ### OFOF1-alt
