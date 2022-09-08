@@ -10,7 +10,7 @@ The controller is built as three layers (bottom panel, OF1 board, top panel) sep
 
 ![image](https://user-images.githubusercontent.com/95242582/177418564-77c9fb9a-2c2d-4ff1-bf36-832a5984891e.png)
 
-![image](https://user-images.githubusercontent.com/95242582/177419836-ed6ed355-e087-4fd6-98e2-bb088412e568.png)
+![image](https://user-images.githubusercontent.com/95242582/189028256-cb972280-4de0-45d2-8c1e-c5924731fbcc.png)
 
 ## OF1 Board
 
