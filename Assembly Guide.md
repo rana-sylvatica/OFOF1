@@ -58,6 +58,16 @@ Repeat for the remaining 19 buttons.  When finished it should look like this:
 ![IMG_20220919_151228537](https://user-images.githubusercontent.com/95242582/191129349-7c30c110-f85f-4aa0-bfa9-663068c01844.jpg)
 ![IMG_20220919_151237929](https://user-images.githubusercontent.com/95242582/191129355-e179f4ee-e064-448a-a2d8-47c09d09b8e2.jpg)
 
+### 3.7
 
+Insert switches into all the housings as shown - make sure the pins are aligned towards the bottom of the panel to fit with the hotswap sockets on the OF1 PCB
+
+Do not put keycaps on yet
+
+![IMG_20220919_151611608](https://user-images.githubusercontent.com/95242582/191129630-3dda2c8e-2469-4810-ad21-0845d0d12a63.jpg)
+
+---
+
+## Step 4: Soldering
 
 
