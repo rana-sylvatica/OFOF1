@@ -75,6 +75,8 @@ Do not put keycaps on yet
 
 There are two methods of soldering the pico onto the OF1 PCB.  **The first method is for experienced solderers only.** If you do not feel very comfortable soldering or do not have a mulitmeter, I recommend the second method.
 
+Before starting either method, it is a good idea to program the pico and make sure it works.  Plug it in to your computer with a micro USB cable and follow the instructions at https://github.com/JulienBernard3383279/pico-rectangle/ or https://github.com/JonnyHaystack/HayBox.  If the pico does not show up on the computer when initially plugged in, it is defective and you should get a new pico.
+
 ### Method 1:
 
 Put a small amount of solder onto the USB data pads under the pico
@@ -171,4 +173,3 @@ Turn the controller back over, and place the keycaps on the switches.
 
 Congratulations! You finished your OFOF1!
 
-To upload firmware, follow the instructions at: https://github.com/JulienBernard3383279/pico-rectangle/ or https://github.com/JonnyHaystack/HayBox
