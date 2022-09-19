@@ -1,5 +1,8 @@
 # How to assemble an OFOF1 (regular version)
 
+These are the instructions for building your very own OFOF1 controller.  If you can assemble a LEGO set and can do a bit of basic soldering, this will be very doable.  It should take about 2 hours for a first time builder to go from kit to finished controller.
+
+
 ## Step 1: Tools
 
 Here is the bare minimum of what you will need:
@@ -68,7 +71,7 @@ Do not put keycaps on yet
 
 ---
 
-## Step 4: Soldering
+## Step 4: Soldering the pico
 
 There are two methods of soldering the pico onto the OF1 PCB.  **The first method is for experienced solderers only.** If you do not feel very comfortable soldering or do not have a mulitmeter, I recommend the second method.
 
@@ -104,4 +107,41 @@ https://www.amazon.com/MCIGICM-Header-2-45mm-Arduino-Connector/dp/B07PKKY8BX
 Doing it this way will look like this. Just solder the pin headers into the OF1 PCB and then solder the pico onto the headers, and plug the cable into the pico and the secondary USB C port on the OF1 PCB. 
 
 ![IMG_20220919_152121047](https://user-images.githubusercontent.com/95242582/191131095-aa297981-7de1-4273-92d8-630a4ac40673.jpg)
+ 
+---
+ 
+## Step 5: Soldering the hotswaps and assembling the case
+
+After soldering the pico, return to the top panel with button housings and switches.  Placing it face-up, insert the 16mm M5 screws into the 5 inner holes in the panel, ignoring the corners for now.  Place small bits of painter's tape over the switches to keep them in place.
+
+![IMG_20220919_153411943](https://user-images.githubusercontent.com/95242582/191131494-0fc44862-5984-4db5-99b7-e7594e58585d.jpg)
+
+Take the top standoffs and break them apart and clean off the connecting bits
+
+![IMG_20220919_153428931](https://user-images.githubusercontent.com/95242582/191131567-c216941a-c198-42d5-a890-aad75045c523.jpg)
+
+Turn the top panel over and place the standoffs as shown onto the 5 screws
+
+![IMG_20220919_153527226](https://user-images.githubusercontent.com/95242582/191131611-678ae9cc-5777-470a-9598-b2ab8dcccf21.jpg)
+
+Place the OF1 PCB onto the switches/standoffs as shown.  Ensure that the pins of the switches are not bent.
+
+![IMG_20220919_153558694](https://user-images.githubusercontent.com/95242582/191131726-8c22ab5e-a4eb-494d-ba14-cfa65ae26174.jpg)
+
+Place the hotswap sockets on the switch pins and push them into place.  You may need to lift up the top panel and squeeze between the switch and the hotswap socket to make sure they are both properly seated.  The socket should rest flush against the OF1 PCB.
+
+![IMG_20220919_153927565](https://user-images.githubusercontent.com/95242582/191132080-8fd392a6-ff18-4145-badb-83a8efbb1b0e.jpg)
+
+Solder the hotswap sockets to the board. Done properly the should look like this:
+![IMG_20220919_154246548](https://user-images.githubusercontent.com/95242582/191132115-6bccd1a2-4281-45ce-9789-d41937fbbb42.jpg)
+
+Take the bottom standoffs and break them apart and clean off the connecting bits, then place them on the OF1 PCB, over the 5 screws as shown.
+
+![IMG_20220919_154352544](https://user-images.githubusercontent.com/95242582/191132272-d7ee5d3b-b295-4908-8d49-0b71703f5ee1.jpg)
+
+Place the bottom panel on top of the bottom standoffs and gently screw on M5 weld nuts onto the screws in the 5 inner holes as shown.  They do not need to be tight, just enough to hold the whole thing together.
+
+![IMG_20220919_154446332](https://user-images.githubusercontent.com/95242582/191132411-51814e7c-50a3-4155-8382-5f69b912d776.jpg)
+
+Break apart and clean the corner standoffs, and then place them in each corner.  
 
