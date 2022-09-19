@@ -137,11 +137,38 @@ Solder the hotswap sockets to the board. Done properly the should look like this
 
 Take the bottom standoffs and break them apart and clean off the connecting bits, then place them on the OF1 PCB, over the 5 screws as shown.
 
+![IMG_20220919_154308236](https://user-images.githubusercontent.com/95242582/191132499-ca487b2f-7ca8-488c-ac25-153f54bc099c.jpg)
+
+
 ![IMG_20220919_154352544](https://user-images.githubusercontent.com/95242582/191132272-d7ee5d3b-b295-4908-8d49-0b71703f5ee1.jpg)
 
 Place the bottom panel on top of the bottom standoffs and gently screw on M5 weld nuts onto the screws in the 5 inner holes as shown.  They do not need to be tight, just enough to hold the whole thing together.
 
 ![IMG_20220919_154446332](https://user-images.githubusercontent.com/95242582/191132411-51814e7c-50a3-4155-8382-5f69b912d776.jpg)
 
-Break apart and clean the corner standoffs, and then place them in each corner.  
+Break apart and clean the corner standoffs, and then place them in each corner.  Place a weld nut through each corner hole and cover with a bit of painter's tape to hold in place.
 
+![IMG_20220919_154454883](https://user-images.githubusercontent.com/95242582/191132511-27f5aa9e-71bc-40d0-9ab9-6025bc474d3f.jpg)
+![IMG_20220919_154615678](https://user-images.githubusercontent.com/95242582/191132565-432adbe4-5dca-4bfd-8f61-1d78cb8d1dfa.jpg)
+
+Turn the controller over, remove the painter's tape from the screws on the top panel, place screws in the four corners, and tighen all screws with the 3mm hex key.
+
+Ensure everything is lined up correctly before tightening.
+
+![IMG_20220919_154811438](https://user-images.githubusercontent.com/95242582/191132640-0effee1f-838f-4110-bda0-2d7c2b05e935.jpg)
+
+Turn the controller over and remove the painter's tape from the corner weld nuts.  Take the anti-slip foam pad and peel it off the paper backing.
+
+
+![IMG_20220919_154901421](https://user-images.githubusercontent.com/95242582/191132784-2f932007-1425-4906-9c58-cb70693e8300.jpg)
+
+Stick on the bottom panel as shown.  The adhesive is fairly strong so be careful to line it up correctly.
+![IMG_20220919_155029987](https://user-images.githubusercontent.com/95242582/191132816-32ab5bd9-b9ad-4a5d-81f7-03d353e8d25e.jpg)
+
+Turn the controller back over, and place the keycaps on the switches.
+
+![IMG_20220919_155301853](https://user-images.githubusercontent.com/95242582/191132859-b5218d5c-82b5-4c07-ae2d-b8f615e66ddd.jpg)
+
+congratulations! You finished your OFOF1!
+
+To upload firmware, follow the instructions at: https://github.com/JulienBernard3383279/pico-rectangle/ or https://github.com/JonnyHaystack/HayBox
