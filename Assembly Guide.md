@@ -70,4 +70,38 @@ Do not put keycaps on yet
 
 ## Step 4: Soldering
 
+There are two methods of soldering the pico onto the OF1 PCB.  **The first method is for experienced solderers only.** If you do not feel very comfortable soldering or do not have a mulitmeter, I recommend the second method.
+
+### Method 1:
+
+Put a small amount of solder onto the USB data pads under the pico
+
+![IMG_20220919_151950707](https://user-images.githubusercontent.com/95242582/191130050-61fb0a19-652f-43e5-9457-bedb01164d3e.jpg)
+
+Attach the pico to the OF1 board with tape or by soldering one of the debug pins to tack it in place. Turn the board over and solder the data pads through the plated holes as shown, while pressing down on the board.  The solder on the pads on the pico should flow into the plated holes but you may need to add a little bit of additional solder to get enough heat flow.
+![IMG_20220919_152302809](https://user-images.githubusercontent.com/95242582/191130241-c4407b70-9edd-4c05-bb77-6034531d879f.jpg)
+
+After doing this and before soldering the rest of the pins, check continuity with a multimeter between the pins on the pico USB (circled on the left) and the d+ and d- pins on the OF1 board (circled on the right).  Also make sure the data pins do not have continuity to each other. 
+
+![IMG_20220919_152700049](https://user-images.githubusercontent.com/95242582/191130593-b8af78ab-6443-401b-ae3f-c6a53b6df5a8.jpg)
+
+Use this image as reference for finding d+ and d- on the pico USB
+
+![image](https://user-images.githubusercontent.com/95242582/191130763-cfaa3987-221b-4743-9a97-65a2be92b336.png)
+
+Finally, solder the rest of the pins.  Finished result should look something like this:
+
+![IMG_20220919_153250754](https://user-images.githubusercontent.com/95242582/191130803-f84a74b4-809f-4a58-959a-4d99301975f7.jpg)
+
+### Method 2:
+
+Instead of surface mounting the pico to the OF1 board, you can buy a Micro USB to USB C cable and pin headers, which greatly reduces the chances for soldering issues that are difficult to fix.  Below are links to examples that will work well for this (not provided in the DIY kit but recommended to purchase if you are a novice solderer)
+
+https://www.amazon.com/dp/B0744BKDRD
+
+https://www.amazon.com/MCIGICM-Header-2-45mm-Arduino-Connector/dp/B07PKKY8BX
+
+Doing it this way will look like this. Just solder the pin headers into the OF1 PCB and then solder the pico onto the headers, and plug the cable into the pico and the secondary USB C port on the OF1 PCB. 
+
+![IMG_20220919_152121047](https://user-images.githubusercontent.com/95242582/191131095-aa297981-7de1-4273-92d8-630a4ac40673.jpg)
 
