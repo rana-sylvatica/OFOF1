@@ -30,38 +30,38 @@ Here are all the parts that you will need (the packing list shows what I pack in
 
 ## Step 3: Buttons
 
-### 3.1:
+
 
 Break the button panels apart and sort the top housings, bottom housings, and keycaps
 ![IMG_20220919_144750126](https://user-images.githubusercontent.com/95242582/191128751-521e034b-088a-4000-8f39-13a1194efe8b.jpg)
 
-### 3.2:
+
 
 Use the flush cutters and/or the hobby knife to clip/cut the remaining connecting bits from the button parts
 
-### 3.3: 
+
 
 Insert a top housing through the hole in the top panel
 ![IMG_20220919_145837458](https://user-images.githubusercontent.com/95242582/191129148-25e63269-ccbd-4868-be7e-d092e77c5441.jpg)
 
-### 3.4: 
+
 
 Put an o-ring over the protruding portion of the top housing
 ![IMG_20220919_145906189](https://user-images.githubusercontent.com/95242582/191129198-b8f2a213-183d-402b-a017-f397ea0b268a.jpg)
 
-### 3.5:
+
 
 Screw the bottom housing onto the threads of the top housing until it is snug (not overly tight) and the square hole is parallel with the top panel
 
 ![IMG_20220919_145949179](https://user-images.githubusercontent.com/95242582/191129300-33e5d11c-032e-41f0-9175-985e353b180a.jpg)
 
-### 3.6:
+
 
 Repeat for the remaining 19 buttons.  When finished it should look like this:
 ![IMG_20220919_151228537](https://user-images.githubusercontent.com/95242582/191129349-7c30c110-f85f-4aa0-bfa9-663068c01844.jpg)
 ![IMG_20220919_151237929](https://user-images.githubusercontent.com/95242582/191129355-e179f4ee-e064-448a-a2d8-47c09d09b8e2.jpg)
 
-### 3.7
+
 
 Insert switches into all the housings as shown - make sure the pins are aligned towards the bottom of the panel to fit with the hotswap sockets on the OF1 PCB
 
@@ -169,6 +169,6 @@ Turn the controller back over, and place the keycaps on the switches.
 
 ![IMG_20220919_155301853](https://user-images.githubusercontent.com/95242582/191132859-b5218d5c-82b5-4c07-ae2d-b8f615e66ddd.jpg)
 
-congratulations! You finished your OFOF1!
+Congratulations! You finished your OFOF1!
 
 To upload firmware, follow the instructions at: https://github.com/JulienBernard3383279/pico-rectangle/ or https://github.com/JonnyHaystack/HayBox
