@@ -173,3 +173,8 @@ Turn the controller back over, and place the keycaps on the switches.
 
 Congratulations! You finished your OFOF1!
 
+If you want a carrying case, this one works well:
+
+https://www.amazon.com/dp/B092LX8865
+
+![IMG_20220919_181316360](https://user-images.githubusercontent.com/95242582/191135638-070c886f-efc8-4125-8e1a-554b4d3539c8.jpg)
