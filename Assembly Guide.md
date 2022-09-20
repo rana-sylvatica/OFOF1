@@ -8,11 +8,11 @@ These are the instructions for building your very own OFOF1 controller.  If you 
 Here is the bare minimum of what you will need:
  - Soldering iron
  - Solder
- - Flush cutters
+ - Flush cutters (flat nail clippers can also work)
  - Hobby knife
  - 3mm hex key
 
-A multimeter is not technically required but will make your life easier
+A multimeter is not technically required but will make your life easier.  Flux can make the soldering easier but isn't necessary (I don't use it).
 
 ![IMG_20220919_144336040](https://user-images.githubusercontent.com/95242582/191127035-48e306d2-e20d-4eaf-afd6-1137bbc93b87.jpg)
 
