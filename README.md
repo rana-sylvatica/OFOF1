@@ -1,8 +1,6 @@
 # OFOF1
 Open-frame case design for the Open Frame1 board
 
-## NOTE: this project is currently under construction and the files do not all match the descriptions in the README.  This warning will be removed when I have all the correct files uploaded
-
 ## Overview
 
 The goal of this project is to create a "bare miniumum" case design for the OF1 board, allowing aspiring makers to construct quality digital controllers as cheaply and simply as possible.
@@ -48,7 +46,11 @@ The ones labeled "tall" are for the regular OFOF1 build with an aluminum top pan
 
 Files for these are provided in STL format, both as individual parts for at-home printing and panelized parts for ordering.  
 
-If you do not like the open-frame look of the controller, there are 3D printable files for three configurations (regular, regular with acrylic/3mm thick top panel, and alt) that provide solid sidewalls.  These replace the standoffs described above.  The STL files contain several parts, so open in your slicer program of choice to separate.  If arranged as shown it is possible to print all parts at the same time on an Ender3-sized print bed.
+If you do not like the open-frame look of the controller, there are 3D printable files for three configurations (regular, regular with acrylic/3mm thick top panel, and alt) that provide solid sidewalls.  These replace the standoffs described above.  
+
+![image](https://user-images.githubusercontent.com/95242582/194998187-f9c72b28-0370-40b0-9ff4-a694d3822cd3.png)
+
+The STL files for at-home printing contain several parts, so open in your slicer program of choice to separate.  If arranged as shown it is possible to print all parts at the same time on an Ender3-sized print bed.
 
 ![image](https://user-images.githubusercontent.com/95242582/189029996-b5907c07-617e-4658-ab5c-ccc28bf42d56.png)
 
