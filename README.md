@@ -43,16 +43,18 @@ The standoffs that hold the layers at the proper spacing are designed to be 3D p
 ![image](https://user-images.githubusercontent.com/95242582/177422742-10cc2180-853b-4335-b5df-835c6af1c75a.png)
 
 
-A complete build requires 4 corner standoffs, 5 bottom standoffs, and 5 top standoffs.  Note that there are three different versions of the corner and top standoffs:
-The ones labeled "reg" are for the regular OFOF1 build with an aluminum top panel.  The ones labeled "reg_acrylic" are for a regular OFOF1 build with a 3mm thick top panel (usually made of acrylic).  Finally, the ones labeled "alt" are for the OFOF1_alt build. 
+A complete build requires 4 corner standoffs, 5 bottom standoffs, and 5 top standoffs.  Note that there are two different versions of the corner and top standoffs:
+The ones labeled "tall" are for the regular OFOF1 build with an aluminum top panel. The ones labeled "short" are for the OFOF1_alt build. If using a 3mm top panel (acrylic, wood, etc.) the standoffs will need to be filed down approx. 1 mm to fit properly.
 
 Files for these are provided in STL format, both as individual parts for at-home printing and panelized parts for ordering.  
 
-If you do not like the open-frame look of the controller, there are 3D printable files for all three configurations (reg, reg_acrylic, and alt) that provide solid sidewalls.  These replace the standoffs described above.  The STL files provided are arranged for an Ender3-sized build platform.  If you are trying to print them on a smaller printer than that, open up the file in your slicer program of choice and split to objects and rearrange as needed.
+If you do not like the open-frame look of the controller, there are 3D printable files for three configurations (regular, regular with acrylic/3mm thick top panel, and alt) that provide solid sidewalls.  These replace the standoffs described above.  The STL files contain several parts, so open in your slicer program of choice to separate.  If arranged as shown it is possible to print all parts at the same time on an Ender3-sized print bed.
 
 ![image](https://user-images.githubusercontent.com/95242582/189029996-b5907c07-617e-4658-ab5c-ccc28bf42d56.png)
 
+Also included are files for sidewalls that can be printed in one piece in resin by JLC.
 
+Note: if using an aluminum bottom panel it may be preferable to cover the underside in non-conductive material (painter's tape, paint, full-sheet sticker paper, etc) to prevent accidental shorting across hotswap sockets on particularly agressive keystrokes that may bend the PCB.
 
 ## Buttons
 
