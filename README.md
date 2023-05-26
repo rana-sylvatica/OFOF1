@@ -2,7 +2,7 @@
 Open-frame case design for the Open Frame1 board
 
 # clean-sprues
-Modded the 3d printable button housings to optimize sprue (the plastic connections binding multiple parts together in a print) placement. In building these, I noticed a lot of sprues had to be completely flattened in order to get good fitment, and that took a lot of work. This mod moves the sprues to hidden locations that don't interfere with fitment (either within the housing, or between buttons). Each board needs 4 prints of *Housing x5.stl*, and 2 prints of *Keycap x10.stl*. Expanding out, to print the minimum quantity of 5 OFOF1 boards from JLCPCB, You need **20 units of *Housing x5.stl* and 10 units of *Keycap x10.stl**.
+Modded the 3d printable button housings to optimize sprue (the plastic connections binding multiple parts together in a print) placement. In building these, I noticed a lot of sprues had to be completely flattened in order to get good fitment, and that took a lot of work. This mod moves the sprues to hidden locations that don't interfere with fitment (either within the housing, or between buttons). Each board needs 4 prints of *Housing x5.stl*, and 2 prints of *Keycap x10.stl*. Expanding out, to print the minimum quantity of 5 OFOF1 boards from JLCPCB, You need **20 units of *Housing x5.stl* and 10 units of *Keycap x10.stl*.**
 
 ## Overview
 
